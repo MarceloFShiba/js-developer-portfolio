@@ -38,12 +38,12 @@
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/MarceloFShiba/PokedexDio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Pagina tutorial Genshin com HTML CSS",
+      "url": "https://github.com/MarceloFShiba/Shiba_Impact",
       "github": true
     }
   ],
